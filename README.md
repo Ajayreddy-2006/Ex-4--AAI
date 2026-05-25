@@ -1,6 +1,6 @@
 <H3>Name: T Ajay</H3>
 <H3>Register No: 212223230007</H3>
-<H3>Experiment: 1</H3>
+<H3>Experiment: 4</H3>
 <H3>Date:22.05.2026</H3>
 <H1 ALIGN =CENTER> Implementation of Hidden Markov Model</H1>
 
